@@ -4,22 +4,6 @@ Este é um projeto modelo para a criação de novos projetos de microsserviços 
 
 ## Estrutura do Projeto
 
-ms-authentication/
-├── node_modules/
-├── src/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── services/
-│ ├── index.js
-│ └── app.js
-├── .env
-├── .gitignore
-├── README.md
-├── package.json
-└── package-lock.json
-└── tsconfig.json
-
 ![estrutura](https://github.com/dequeirozmarcondes/microservices/assets/160362828/4a24d39b-6ebb-4258-b518-c8849dbf74f2)
 
 ## Instalação
